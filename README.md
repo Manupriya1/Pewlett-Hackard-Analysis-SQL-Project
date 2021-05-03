@@ -24,13 +24,9 @@ I used SQL to explore and manipulate data. In this challenege I determined:
 
       - There are 1550 employees eligible for mentorship program
      
-     <img width="437" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/69255270/116831380-ca5aea80-ab63-11eb-9a32-ec6e884d407a.png">
+         <img width="437" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/69255270/116831380-ca5aea80-ab63-11eb-9a32-ec6e884d407a.png">
      
      
-     
-     <img width="144" alt="mentorship_eligibility_count" src="https://user-images.githubusercontent.com/69255270/116831872-d98f6780-ab66-11eb-8a0d-b73c6e6f09d7.png">
-     
-    
 
 ### Summary
   1. How many roles will need to be filled: 
