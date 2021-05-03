@@ -1,4 +1,3 @@
-<img width="167" alt="Numer of retirees per title" src="https://user-images.githubusercontent.com/69255270/116833109-41947c80-ab6c-11eb-96a0-5d0eae816697.png">
 # UCB-SQL-Project
 
 ## Exploring employee database with SQL
@@ -21,16 +20,17 @@ I used SQL to explore and manipulate data. In this challenege I determined:
         
      
   
-  2.  The employees eligible for the mentorship program
+  2.  The employees eligible for the mentorship program:
+
+      - There are 1550 employees eligible for mentorship program
      
      <img width="437" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/69255270/116831380-ca5aea80-ab63-11eb-9a32-ec6e884d407a.png">
      
-     - There are 1550 employees eligible for mentorship program
+     
      
      <img width="144" alt="mentorship_eligibility_count" src="https://user-images.githubusercontent.com/69255270/116831872-d98f6780-ab66-11eb-8a0d-b73c6e6f09d7.png">
      
-     - Most retiring employees eligible for mentorship progam are with the title of senior staff (~412)  and least have title of assistant engineers. 
-      - None of the mangares are eligible for mentorship program. 
+    
 
 ### Summary
   1. How many roles will need to be filled: 
