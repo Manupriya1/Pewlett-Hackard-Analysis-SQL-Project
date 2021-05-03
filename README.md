@@ -11,14 +11,15 @@ I used SQL to explore and manipulate data. In this challenege I determined:
   -   Prepare the manager for the "silver tsunami"The total number of votes
 
 ### Results
-  1. The number of retiring emplyees by title 
+  1. The number of retiring emplyees by title:
+      - as we can see in the picture above that maximum number of employees tiring are engineers followed by senior staff.  
+      
+       - There are only 6 managers retiring 
     
-    <img width="167" alt="Numer of retirees per title" src="https://user-images.githubusercontent.com/69255270/116833109-41947c80-ab6c-11eb-96a0-5d0eae816697.png">
+      <img width="167" alt="Numer of retirees per title" src="https://user-images.githubusercontent.com/69255270/116833109-41947c80-ab6c-11eb-96a0-5d0eae816697.png">
 
         
-     - as we can see in the picture above that maximum number of employees tiring are engineers followed by senior staff.  
-      
-     - There are only 6 managers retiring 
+     
   
   2.  The employees eligible for the mentorship program
      
