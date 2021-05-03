@@ -1,3 +1,4 @@
+<img width="167" alt="Numer of retirees per title" src="https://user-images.githubusercontent.com/69255270/116833109-41947c80-ab6c-11eb-96a0-5d0eae816697.png">
 # UCB-SQL-Project
 
 ## Exploring employee database with SQL
@@ -11,12 +12,10 @@ I used SQL to explore and manipulate data. In this challenege I determined:
 
 ### Results
   1. The number of retiring emplyees by title 
+    
+    <img width="167" alt="Numer of retirees per title" src="https://user-images.githubusercontent.com/69255270/116833109-41947c80-ab6c-11eb-96a0-5d0eae816697.png">
 
-
-    <img width="167" alt="Numer of retirees per title" src="https://user-images.githubusercontent.com/69255270/116831068-1c9b0c00-ab62-11eb-8a20-aba25079a1e6.png">
-     
-     
-     
+        
      - as we can see in the picture above that maximum number of employees tiring are engineers followed by senior staff.  
       
      - There are only 6 managers retiring 
